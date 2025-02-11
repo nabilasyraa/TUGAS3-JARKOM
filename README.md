@@ -26,11 +26,21 @@ Mata Kuliah : Praktikum Jaringan Komputer
 ![Image](https://github.com/user-attachments/assets/d05a2782-2cee-4117-a1e7-bc5f21945117)
 ### 9. Pada tab Sharing, pilih Share
 ![Image](https://github.com/user-attachments/assets/91e015a6-cff6-4d53-8e26-e7c36983db62)
-### 10. Pilih Share this folder, 
-
-
-### . Pilih Everyone, lalu klik Add
-
-### . Pada kolom Permission Level, pilih Read/Write
-
-### . Klik Share
+### 10. Klik Share this folder, lalu klik caching
+![Image](https://github.com/user-attachments/assets/1ceea687-9c6c-4c8e-a597-57b6337986b4)
+### 11. Pilih All files and programs, lalu klik OK
+![Image](https://github.com/user-attachments/assets/00dbfe58-ba28-411a-99dd-67ddf6c7dbc3)
+### 12. Pilih Apply, lalu klik OK
+![Image](https://github.com/user-attachments/assets/a5581586-fbc4-4436-9cb0-e3338d3efd78)
+### 13. Pilih Everyone, lalu klik Add
+![Image](https://github.com/user-attachments/assets/0d79c11d-6daf-4892-a6f3-5ba65feb536f)
+### 14. Pada kolom Permission Level, pilih Read/Write
+![Image](https://github.com/user-attachments/assets/ea74b95c-971b-4277-85a7-5e63a1892190)
+### 15. Klik Done
+![Image](https://github.com/user-attachments/assets/ab7ea278-a3bc-4576-a6d6-b971c9dc37af)
+### 16. Buka Network dan gunakan \\IP laptop yang terhubung
+![Image](https://github.com/user-attachments/assets/322e2dd4-6906-47a5-a035-e6a98d016f77)
+### 17. Masukkan Username dan Password dari laptop yang terhubung
+![Image](https://github.com/user-attachments/assets/ce3b2166-d572-4e82-81b7-974444a56ba2)
+### 18. File sudah bisa diakses
+![Image](https://github.com/user-attachments/assets/e6968cf1-d82e-4f8d-b222-be18b95b03aa)
